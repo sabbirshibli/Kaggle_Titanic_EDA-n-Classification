@@ -1,1 +1,3 @@
-"# Kaggle_Titanic_EDA-n-Classification" 
+Description will be added soon...
+
+Kaggle Link: https://www.kaggle.com/code/sabbirshibli/titanic-competition-eda-classification
